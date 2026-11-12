@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Local dataset / audio (not redistributed in this repository)
+data/raw/
+data/audio/
+data/**/*.wav
+data/**/*.flac
+
+# Generated experiment artifacts
+outputs/
+logs/
+checkpoints/
+*.h5
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

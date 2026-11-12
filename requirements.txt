@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+librosa
+soundfile
+matplotlib
+PyWavelets
+tensorflow
+jupyter
+notebook
+streamlit
