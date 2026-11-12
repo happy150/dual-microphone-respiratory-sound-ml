@@ -1,0 +1,11 @@
+experiment,accuracy,macro_f1,result_status
+Always normal baseline,0.5532,0.1781,historical_recorded
+Compact log-Mel CNN,0.4761,0.2008,historical_recorded
+Time-resized log-Mel CNN,0.4284,0.2352,historical_recorded
+Frame-padded CNN,0.4268,0.2424,historical_recorded
+Weighted three-channel CNN,0.4992,0.4079,historical_recorded
+Patient-balanced three-channel CNN,0.5193,0.4186,historical_recorded
+CNN embeddings with RBF-SVM,0.4484,0.3826,historical_recorded
+CNN embeddings with k-NN k=11,0.5208,0.4374,historical_recorded
+CNN embeddings with bagged k-NN,0.5239,0.4376,historical_recorded
+CNN-LSTM selected model,0.5655,0.5041,historical_recorded

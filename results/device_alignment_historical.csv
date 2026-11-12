@@ -1,0 +1,4 @@
+configuration,device,cycles,positive,m0_auc,m2_auc,m0_average_precision,m2_average_precision,result_status
+M0_vs_M2 historical validation,AKGC417L,285,121,0.5375,0.6972,0.4174,0.7071,historical_recorded
+M0_vs_M2 historical validation,LittC2SE,85,26,0.2979,0.2601,0.2589,0.2189,historical_recorded
+M0_vs_M2 historical validation,Meditron,279,62,0.4570,0.4529,0.2088,0.2104,historical_recorded

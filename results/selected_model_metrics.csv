@@ -1,0 +1,14 @@
+metric,validation,evaluated_test,result_status,notes
+Four-class accuracy,0.5655,0.4583,historical_recorded,Exact four-class predictions
+Four-class macro F1,0.5041,0.3584,historical_recorded,Macro F1 across four acoustic classes
+Crackle event ROC-AUC,0.5517,0.5885,historical_recorded,Event-level ranking metric
+Wheeze event ROC-AUC,0.8497,0.7276,historical_recorded,Event-level ranking metric
+Crackle threshold,0.45,0.45,frozen_threshold,Selected on validation and reused on test
+Wheeze threshold,0.60,0.60,frozen_threshold,Selected on validation and reused on test
+Crackle precision,,0.3575,historical_recorded,Frozen test threshold
+Crackle recall,,0.4545,historical_recorded,Frozen test threshold
+Crackle F1,,0.4002,historical_recorded,Frozen test threshold
+Wheeze precision,,0.4288,historical_recorded,Frozen test threshold
+Wheeze recall,,0.5644,historical_recorded,Frozen test threshold
+Wheeze F1,,0.4873,historical_recorded,Frozen test threshold
+ICBHI-style score,,0.4448,historical_recorded,Defined project scoring protocol; not conventional balanced accuracy
