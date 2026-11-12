@@ -3,9 +3,8 @@
 Minor Specialization in Embedded Systems project, Manipal Institute of Technology.
 
 **Authors**
-- Asmi Jain (230906092)
-- Sonali Pandit (230906514)
-- Susmrithi Rishi (230906050)
+- Asmi Jain
+
 
 **Guide:** R Srividya, Associate Professor, School of Electrical Engineering, Manipal Institute of Technology.
 
